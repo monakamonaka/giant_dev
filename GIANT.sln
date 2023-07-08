@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GIANT_TEST", "forms\GIANT_TEST.vbproj", "{04849D37-FFEE-4C2A-9E52-47F282916AFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04849D37-FFEE-4C2A-9E52-47F282916AFE}.Debug|x64.ActiveCfg = Debug|x64
+		{04849D37-FFEE-4C2A-9E52-47F282916AFE}.Debug|x64.Build.0 = Debug|x64
+		{04849D37-FFEE-4C2A-9E52-47F282916AFE}.Debug|x86.ActiveCfg = Debug|x86
+		{04849D37-FFEE-4C2A-9E52-47F282916AFE}.Debug|x86.Build.0 = Debug|x86
+		{04849D37-FFEE-4C2A-9E52-47F282916AFE}.Release|x64.ActiveCfg = Release|x64
+		{04849D37-FFEE-4C2A-9E52-47F282916AFE}.Release|x64.Build.0 = Release|x64
+		{04849D37-FFEE-4C2A-9E52-47F282916AFE}.Release|x86.ActiveCfg = Release|x86
+		{04849D37-FFEE-4C2A-9E52-47F282916AFE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A14679B-71F2-4B64-A8BF-1D2F56222A29}
+	EndGlobalSection
+EndGlobal
